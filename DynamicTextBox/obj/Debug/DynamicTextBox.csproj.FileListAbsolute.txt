@@ -1,0 +1,6 @@
+c:\users\dan\documents\visual studio 2013\Projects\DynamicTextBox\DynamicTextBox\bin\DynamicTextBox.dll.config
+c:\users\dan\documents\visual studio 2013\Projects\DynamicTextBox\DynamicTextBox\bin\DynamicTextBox.dll
+c:\users\dan\documents\visual studio 2013\Projects\DynamicTextBox\DynamicTextBox\bin\DynamicTextBox.pdb
+c:\users\dan\documents\visual studio 2013\Projects\DynamicTextBox\DynamicTextBox\obj\Debug\DynamicTextBox.csprojResolveAssemblyReference.cache
+c:\users\dan\documents\visual studio 2013\Projects\DynamicTextBox\DynamicTextBox\obj\Debug\DynamicTextBox.dll
+c:\users\dan\documents\visual studio 2013\Projects\DynamicTextBox\DynamicTextBox\obj\Debug\DynamicTextBox.pdb
